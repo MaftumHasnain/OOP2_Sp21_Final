@@ -1,0 +1,7 @@
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\audry\AccountTransaction\AccountTransaction\bin\Debug\AccountTransaction.exe.config
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\audry\AccountTransaction\AccountTransaction\bin\Debug\AccountTransaction.exe
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\audry\AccountTransaction\AccountTransaction\bin\Debug\AccountTransaction.pdb
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\audry\AccountTransaction\AccountTransaction\obj\Debug\AccountTransaction.csprojAssemblyReference.cache
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\audry\AccountTransaction\AccountTransaction\obj\Debug\AccountTransaction.csproj.CoreCompileInputs.cache
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\audry\AccountTransaction\AccountTransaction\obj\Debug\AccountTransaction.exe
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\audry\AccountTransaction\AccountTransaction\obj\Debug\AccountTransaction.pdb
