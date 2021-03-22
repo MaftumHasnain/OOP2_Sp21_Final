@@ -1,0 +1,7 @@
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\audry\StudentCourse\StudentCourse\bin\Debug\StudentCourse.exe.config
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\audry\StudentCourse\StudentCourse\bin\Debug\StudentCourse.exe
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\audry\StudentCourse\StudentCourse\bin\Debug\StudentCourse.pdb
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\audry\StudentCourse\StudentCourse\obj\Debug\StudentCourse.csprojAssemblyReference.cache
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\audry\StudentCourse\StudentCourse\obj\Debug\StudentCourse.csproj.CoreCompileInputs.cache
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\audry\StudentCourse\StudentCourse\obj\Debug\StudentCourse.exe
+C:\Users\ALIF\Dropbox\7th Semester\CSharp\audry\StudentCourse\StudentCourse\obj\Debug\StudentCourse.pdb
